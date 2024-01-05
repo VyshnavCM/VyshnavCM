@@ -7,7 +7,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="[/assets/programmer.gi](https://giphy.com/embed/qgQUggAC3Pfv687qPC)f" alt="Coding gif" />
+ <img align="right" width="350" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="Coding gif" />
  🌱 I’m currently learning Flutter
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
