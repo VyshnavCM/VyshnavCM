@@ -7,6 +7,7 @@
  # About me
  
 <p>
+<img align="right" width="350" src="giphy.gif" alt="Coding gif" />
 
  🌱 &emsp; I’m currently learning Flutter <br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
