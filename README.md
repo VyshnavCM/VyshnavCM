@@ -27,7 +27,7 @@
    <a href="https://www.instagram.com/vyshnav_cm/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 
-   <a href="https://[twitter.com/axiftaj](https://twitter.com/VyshnavVijaayan)">
+   <a href="https://[twitter.com/VyshnavVijaayan](https://twitter.com/VyshnavVijaayan)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
