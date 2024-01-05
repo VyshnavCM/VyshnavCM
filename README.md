@@ -1,37 +1,25 @@
-### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- <h1 align="center">Hi 👋, I'm Asif Taj</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
+
+ <h1 align="center">Hi 👋, I'm Vyshnav Vijayan</h1>
+
+
+- 🌱 I’m currently learning Flutter
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
-- ⚡ Fun fact: I'm comming to teen
+- 📫 How to reach me: vvijayan854@gmail.con
+
+
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/axiftaj">
+  <a href="https://github.com/VyshnavCM">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-   <a href="https://www.instagram.com/axif_taj">
+  
+   <a href="https://www.instagram.com/vyshnav_cm/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://fb.com/aaxiftaj">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://twitter.com/axiftaj">
+
+   <a href="https://[twitter.com/axiftaj](https://twitter.com/VyshnavVijaayan)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -45,4 +33,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [Vyshnav](https://github.com/VyshnavCM)
