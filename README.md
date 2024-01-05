@@ -30,6 +30,10 @@
    <a href="https://twitter.com/VyshnavVijaayan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+
+  <a href="https://www.linkedin.com/in/vyshnav-vijayan-c-m-811123176/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vyshnav"/>
+ </a>
 </div>
 
 ### Languages and Tools:
